@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prestart": "npm run build",
     "start": "react-scripts start",
     "preprebuild": "tslint -c tslint.json -p tsconfig.json --fix",
     "prebuild": "tsc --pretty",
@@ -18,7 +17,7 @@
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
     "@types/reactstrap": "^8.4.3",
-    "@types/uuid": "^8.0.0",
+    "@types/uuid": "^8.3.0",
     "typescript": "^3.9.6"
   },
   "dependencies": {
@@ -27,7 +26,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "reactstrap": "^8.5.1",
-    "uuid": "^8.2.0"
+    "uuid": "^8.3.0"
   },
   "browserslist": {
     "production": [

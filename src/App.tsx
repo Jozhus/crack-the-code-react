@@ -1,16 +1,11 @@
 import React, { Component } from "react";
+import { Game } from "./Game";
 
 class App extends Component {
 
-  constructor(props: {}) {
-    super(props);
-  }
-
   public render() {
     return (
-      <React.Fragment>
-        <div>yep</div>
-      </React.Fragment>
+      <Game length={3} />
     );
   }
 }
