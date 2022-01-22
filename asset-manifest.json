@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/crack-the-code-react/static/js/main.f651362b.chunk.js",
+    "main.js.map": "/crack-the-code-react/static/js/main.f651362b.chunk.js.map",
+    "runtime-main.js": "/crack-the-code-react/static/js/runtime-main.0d4a7366.js",
+    "runtime-main.js.map": "/crack-the-code-react/static/js/runtime-main.0d4a7366.js.map",
+    "static/js/2.354efaea.chunk.js": "/crack-the-code-react/static/js/2.354efaea.chunk.js",
+    "static/js/2.354efaea.chunk.js.map": "/crack-the-code-react/static/js/2.354efaea.chunk.js.map",
+    "index.html": "/crack-the-code-react/index.html",
+    "precache-manifest.c607231b204da5d83eaa00c02b090221.js": "/crack-the-code-react/precache-manifest.c607231b204da5d83eaa00c02b090221.js",
+    "service-worker.js": "/crack-the-code-react/service-worker.js",
+    "static/js/2.354efaea.chunk.js.LICENSE.txt": "/crack-the-code-react/static/js/2.354efaea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d4a7366.js",
+    "static/js/2.354efaea.chunk.js",
+    "static/js/main.f651362b.chunk.js"
+  ]
+}
